@@ -1,0 +1,6 @@
+﻿  Minesweeper.cpp
+d:\uczelnia\programowanie\laborki\minesweeper\minesweeper\minesweeper.cpp(27): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\uczelnia\programowanie\laborki\minesweeper\minesweeper\minesweeper.cpp(73): warning C4309: '=' : truncation of constant value
+d:\uczelnia\programowanie\laborki\minesweeper\minesweeper\minesweeper.cpp(177): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\programowanie\laborki\minesweeper\minesweeper\minesweeper.cpp(140): warning C4715: 'CheckField' : not all control paths return a value
+  Minesweeper.vcxproj -> D:\Uczelnia\programowanie\laborki\Minesweeper\Debug\Minesweeper.exe
